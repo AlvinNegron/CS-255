@@ -1,1 +1,5 @@
 # CS-255
+
+DriverPass is a company that train students to pass their driving tests. We were assigned to them to create a new web-based system that will organize and let multiple users use the system at the same time. While creating this system, I excelled in creating the document, this is an important aspect because it helps our client understand what our plan is. I would pick my Class Diagram, I feel like I could've gone more in depth with it and shown a more detailed overview. 
+
+I interpreted the users needs by going over the interview notes and checking for what the client wants the user to be able to do, I checked for functional and non-functional requirements. This is very important because you aren't the one who is going to be using the system everyday, it is the student, IT and instructors. I approach desiging software by checking the requirements for it and making a plan. In the future I plan to use document to plan out my design, such as a buissness requirement and systems design. 
